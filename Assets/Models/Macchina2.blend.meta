@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 26a0b8de0ed150e438db15713649b10a
+timeCreated: 1456092339
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Front_end_bottom001
+    100002: Front_end_top001
+    100004: Kart_Floor003
+    100006: //RootNode
+    100008: Road_Tire_final013
+    100010: Road_Tire_final014
+    100012: Road_Tire_final015
+    100014: Road_Tire_final016
+    100016: Seat001
+    100018: Steering_Wheel001
+    100020: Base
+    100022: Davanti
+    100024: FrontRight
+    100026: FrontRight_001
+    100028: Paraurti
+    100030: RearLeft
+    100032: RearRight
+    100034: Volante
+    100036: FrontLeft
+    400000: Front_end_bottom001
+    400002: Front_end_top001
+    400004: Kart_Floor003
+    400006: //RootNode
+    400008: Road_Tire_final013
+    400010: Road_Tire_final014
+    400012: Road_Tire_final015
+    400014: Road_Tire_final016
+    400016: Seat001
+    400018: Steering_Wheel001
+    400020: Base
+    400022: Davanti
+    400024: FrontRight
+    400026: FrontRight_001
+    400028: Paraurti
+    400030: RearLeft
+    400032: RearRight
+    400034: Volante
+    400036: FrontLeft
+    2300000: Front_end_bottom001
+    2300002: Front_end_top001
+    2300004: Kart_Floor003
+    2300006: Road_Tire_final013
+    2300008: Road_Tire_final014
+    2300010: Road_Tire_final015
+    2300012: Road_Tire_final016
+    2300014: Seat001
+    2300016: Steering_Wheel001
+    2300018: Base
+    2300020: Davanti
+    2300022: FrontRight
+    2300024: FrontRight_001
+    2300026: Paraurti
+    2300028: RearLeft
+    2300030: RearRight
+    2300032: Volante
+    2300034: FrontLeft
+    3300000: Front_end_bottom001
+    3300002: Front_end_top001
+    3300004: Kart_Floor003
+    3300006: Road_Tire_final013
+    3300008: Road_Tire_final014
+    3300010: Road_Tire_final015
+    3300012: Road_Tire_final016
+    3300014: Seat001
+    3300016: Steering_Wheel001
+    3300018: Base
+    3300020: Davanti
+    3300022: FrontRight
+    3300024: FrontRight_001
+    3300026: Paraurti
+    3300028: RearLeft
+    3300030: RearRight
+    3300032: Volante
+    3300034: FrontLeft
+    4300000: Front_end_top001
+    4300002: Steering_Wheel001
+    4300004: Seat001
+    4300006: Road_Tire_final014
+    4300008: Road_Tire_final013
+    4300010: Road_Tire_final015
+    4300012: Kart_Floor003
+    4300014: Front_end_bottom001
+    4300016: Road_Tire_final016
+    4300018: Volante
+    4300020: Davanti
+    4300022: Paraurti
+    4300024: FrontRight_001
+    4300026: Base
+    4300028: FrontRight
+    4300030: RearLeft
+    4300032: RearRight
+    4300034: FrontLeft
+    6400000: Base
+    6400002: Davanti
+    6400004: FrontLeft
+    6400006: FrontRight
+    6400008: Paraurti
+    6400010: RearLeft
+    6400012: RearRight
+    6400014: Volante
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
